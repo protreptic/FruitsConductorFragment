@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fruits</string>
+    <string name="api_fruits">https://fruit-data.herokuapp.com/</string>
+    <string name="no_fruits">Фруктов нет</string>
+    <string name="error">Что-то пошло не так</string>
+    <string name="type_fruit_name">Печатайте название фрукта</string>
+</resources>
